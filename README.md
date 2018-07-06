@@ -1,10 +1,4 @@
 # Front-End knowledge
 
-## Subtítulo
-
-Parrafo uno
-
-```text
-Algo de código
-```
+Recopilación de conocimiento para la construcción de interfaces ricas
 
