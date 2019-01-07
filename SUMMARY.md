@@ -8,4 +8,5 @@
 * [Software economics](software-economics.md)
 * [Functional Programming](functional-programming.md)
 * [Databases](databases.md)
+* [Google assitant](google-assitant.md)
 
