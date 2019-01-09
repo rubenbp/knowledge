@@ -9,4 +9,5 @@
 * [Functional Programming](functional-programming.md)
 * [Databases](databases.md)
 * [Google assitant](google-assitant.md)
+* [Typescript](typescript.md)
 
