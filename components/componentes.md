@@ -1,4 +1,4 @@
-# Componentes
+# Styling
 
 ## Styling React Components
 

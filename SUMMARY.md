@@ -12,6 +12,6 @@
 
 ## Components
 
-* [Componentes](components/componentes.md)
-* [Tips & tricks](components/tips-and-tricks.md)
+* [Styling](components/componentes.md)
+* [Libraries](components/tips-and-tricks.md)
 
