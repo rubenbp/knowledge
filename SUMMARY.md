@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Front-End knowledge](README.md)
-* [Componentes](componentes.md)
 * [Google chrome](google-chrome.md)
 * [Performance](performance.md)
 * [Server side rendering \(dynamic / static\)](server-side-rendering-dynamic-static.md)
@@ -10,4 +9,9 @@
 * [Databases](databases.md)
 * [Google assitant](google-assitant.md)
 * [Typescript](typescript.md)
+
+## Components
+
+* [Componentes](components/componentes.md)
+* [Tips & tricks](components/tips-and-tricks.md)
 
