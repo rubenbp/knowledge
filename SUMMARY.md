@@ -9,6 +9,7 @@
 * [Databases](databases.md)
 * [Google assitant](google-assitant.md)
 * [Typescript](typescript.md)
+* [Animaciones](animaciones.md)
 
 ## Components
 
