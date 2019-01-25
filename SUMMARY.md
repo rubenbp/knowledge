@@ -3,11 +3,6 @@
 * [Front-End knowledge](README.md)
 * [Google chrome](google-chrome.md)
 * [Performance](performance.md)
-* [Server side rendering \(dynamic / static\)](server-side-rendering-dynamic-static.md)
-* [Software economics](software-economics.md)
-* [Functional Programming](functional-programming.md)
-* [Databases](databases.md)
-* [Google assitant](google-assitant.md)
 * [Typescript](typescript.md)
 * [Animaciones](animaciones.md)
 
@@ -15,4 +10,19 @@
 
 * [Styling](components/componentes.md)
 * [Libraries](components/tips-and-tricks.md)
+
+## Backend
+
+* [Server side rendering \(dynamic / static\)](backend/server-side-rendering-dynamic-static.md)
+* [Databases](backend/databases.md)
+* [Docker](backend/docker.md)
+
+## General
+
+* [Functional Programming](general/functional-programming.md)
+* [Software economics](general/software-economics.md)
+
+## Other
+
+* [Google assitant](other/google-assitant.md)
 

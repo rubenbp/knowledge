@@ -15,9 +15,9 @@ Analizar todas las decisiones frente a:
 * riesgo mitigado
 * deuda pagada
 
-![](.gitbook/assets/_tarugo3___programania___como_gastarte__bien__los_cuartos_desarrollando_software_-_speaker_deck%20%281%29.png)
+![](../.gitbook/assets/_tarugo3___programania___como_gastarte__bien__los_cuartos_desarrollando_software_-_speaker_deck%20%281%29.png)
 
-![](.gitbook/assets/_tarugo3___programania___como_gastarte__bien__los_cuartos_desarrollando_software_-_speaker_deck%20%284%29.png)
+![](../.gitbook/assets/_tarugo3___programania___como_gastarte__bien__los_cuartos_desarrollando_software_-_speaker_deck%20%284%29.png)
 
 ### Recursos
 
