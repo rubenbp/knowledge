@@ -21,6 +21,7 @@
 
 * [Functional Programming](general/functional-programming.md)
 * [Software economics](general/software-economics.md)
+* [Agile](general/agile.md)
 
 ## Other
 
