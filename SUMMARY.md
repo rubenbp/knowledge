@@ -22,6 +22,8 @@
 * [Functional Programming](general/functional-programming.md)
 * [Software economics](general/software-economics.md)
 * [Agile](general/agile.md)
+* [eXtreme Programming](general/extreme-programming.md)
+* [Code Best Practices](general/code-best-practices.md)
 
 ## Other
 
