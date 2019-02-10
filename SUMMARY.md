@@ -1,10 +1,15 @@
 # Table of contents
 
 * [Front-End knowledge](README.md)
+* [Fuentes](fuentes.md)
 * [Google chrome](google-chrome.md)
 * [Performance](performance.md)
 * [Typescript](typescript.md)
-* [Animaciones](animaciones.md)
+* [Maquetación](animaciones.md)
+* [React](react.md)
+* [Animaciones JS](animaciones-js.md)
+* [Libraries](libraries.md)
+* [Utilidades](utilidades.md)
 
 ## Components
 

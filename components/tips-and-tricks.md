@@ -12,7 +12,9 @@
 
 * [idb-keyval](https://github.com/jakearchibald/idb-keyval): A super-simple-small promise-based keyval store implemented with IndexedDB
 
-General
+## General
 
 * [react-helmet](https://github.com/nfl/react-helmet): A document head manager for React
+* [react-async](https://github.com/ghengeveld/react-async#usage):  🍾 Flexible promise-based React data loader
+* [react-live](https://github.com/FormidableLabs/react-live): A production-focused playground for live editing React components
 
