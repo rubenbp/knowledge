@@ -11,7 +11,14 @@
 
 You start with an Acceptance Test, then move to the other test types, as needed, while mocking collaborators.
 
+## Refactoring
 
+* Use Dependency Breaking techniques \(e.g. Subclass and override method\) in order to write tests for legacy code.
+* Test from the shallowest branch, since it contains the lowest number of dependencies.
+* Refactor from the deepest branch.
+* Use [Test Data Builders](http://blog.ploeh.dk/2017/08/15/test-data-builders-in-c/)  ****to make tests more readable.
+* Use [Guard Clauses](http://wiki.c2.com/?GuardClause) to make the happy path more visible.
+* Use the [Balanced Abstraction Principle](https://codurance.com/2015/01/27/balanced-abstraction-principle/) to make sure that everything in a method is at the same level of abstraction. Public methods should tell a story.
 
 ## Libros & Material
 
