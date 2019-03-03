@@ -10,7 +10,7 @@
 * [Animaciones JS](animaciones-js.md)
 * [Libraries](libraries.md)
 * [Utilidades](utilidades.md)
-* [Testing](testing.md)
+* [Testing & Refactoring](testing.md)
 
 ## Components
 

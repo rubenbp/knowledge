@@ -1,4 +1,4 @@
-# Testing
+# Testing & Refactoring
 
 ## Clasificación de tipos de test \(según Sandro Mancuso\)
 
@@ -10,4 +10,11 @@
 * **User Journey Test** \(the unit under test is the UI and the backend is mocked\)
 
 You start with an Acceptance Test, then move to the other test types, as needed, while mocking collaborators.
+
+
+
+## Libros & Material
+
+* [Working Effectivery with Legacy Code](https://www.amazon.co.uk/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
+* [Testing & Refactoring Legacy Code \(video - Sandro Mancuso\)](https://www.youtube.com/watch?v=_NnElPO5BU0)
 
