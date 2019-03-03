@@ -30,6 +30,7 @@ Propiedades de CSS que se pueden animar sin requerir un repaint ni relayout del 
 ## Accesibilidad
 
 * [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+* [Reduced Motion Media Query](https://css-tricks.com/introduction-reduced-motion-media-query/): @media para poder eliminar animaciones de interfaces
 
 
 
